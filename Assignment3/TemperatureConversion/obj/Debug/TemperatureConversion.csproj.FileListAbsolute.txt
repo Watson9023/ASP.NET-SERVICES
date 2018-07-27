@@ -1,0 +1,7 @@
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\bin\TemperatureConversion.dll.config
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\bin\TemperatureConversion.dll
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\bin\TemperatureConversion.pdb
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\obj\Debug\TemperatureConversion.csprojResolveAssemblyReference.cache
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\obj\Debug\TemperatureConversion.dll
+C:\Users\jonre\source\repos\Assignment3\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

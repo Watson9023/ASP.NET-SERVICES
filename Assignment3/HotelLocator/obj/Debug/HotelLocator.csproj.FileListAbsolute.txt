@@ -1,0 +1,7 @@
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\obj\Debug\HotelLocator.csprojResolveAssemblyReference.cache
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\obj\Debug\HotelLocator.csproj.CoreCompileInputs.cache
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\bin\HotelLocator.dll.config
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\bin\HotelLocator.dll
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\bin\HotelLocator.pdb
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\obj\Debug\HotelLocator.dll
+C:\Users\jonre\source\repos\Assignment3\HotelLocator\obj\Debug\HotelLocator.pdb

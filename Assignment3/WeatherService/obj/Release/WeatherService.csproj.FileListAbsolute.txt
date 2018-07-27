@@ -1,0 +1,7 @@
+C:\Users\jonre\source\repos\Assignment3\WeatherService\bin\WeatherService.dll.config
+C:\Users\jonre\source\repos\Assignment3\WeatherService\bin\WeatherService.dll
+C:\Users\jonre\source\repos\Assignment3\WeatherService\bin\WeatherService.pdb
+C:\Users\jonre\source\repos\Assignment3\WeatherService\obj\Release\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\jonre\source\repos\Assignment3\WeatherService\obj\Release\WeatherService.dll
+C:\Users\jonre\source\repos\Assignment3\WeatherService\obj\Release\WeatherService.pdb
+C:\Users\jonre\source\repos\Assignment3\WeatherService\obj\Release\WeatherService.csprojResolveAssemblyReference.cache
