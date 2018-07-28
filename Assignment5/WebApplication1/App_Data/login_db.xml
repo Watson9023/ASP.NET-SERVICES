@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Staff>
+  <member>
+    <name>Jon</name>
+    <pwd>123</pwd>
+    <role>Admin</role>
+  </member>
+  <member>
+    <name>Amy</name>
+    <pwd>123</pwd>
+    <role>Staff</role>
+  </member>
+  <member>
+    <name>Bob</name>
+    <pwd>anc</pwd>
+    <role>Staff</role>
+  </member>
+</Staff>
