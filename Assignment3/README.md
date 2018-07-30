@@ -13,4 +13,6 @@ The services are deployed @ http://webstrar56.fulton.asu.edu/page5/default.aspx
 
 The web page default.aspx is the TryIt page for each service listed above, however it can be unstable. As such, the project contained here can be run entirely locally. 
 
+Additional information on services can be found on index.html
+
 For questions contact jonreyes4@gmail.com
